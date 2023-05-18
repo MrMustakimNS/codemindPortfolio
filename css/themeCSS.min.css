@@ -1,0 +1,621 @@
+/*
+<Group description="Theme Color">
+<Variable name="themeColor" description="Light Mode Address bar color" type="color" default="#2e51a2" value="#1e1e1e"/>
+
+</Group>
+
+
+
+*/
+
+
+
+
+.PCC {font-family:'Josefin Sans', sans-serif ! important;}
+
+
+
+/* portfolio */
+.PCwrS {margin-left:20px !important }
+
+  span {font-family:'Josefin Sans', sans-serif ! important;}
+h2 {font-family:'Josefin Sans', sans-serif ! important;}
+  p {font-family:'Josefin Sans', sans-serif;}
+  div {font-family:'Josefin Sans', sans-serif;}
+
+  /* vietnamese */
+
+@font-face {
+
+  font-family: 'Josefin Sans';
+
+  font-style: normal;
+
+  font-weight: 400;
+
+  src: url(https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMlhLzTs.woff2) format('woff2');
+
+  unicode-range: U+0102-0103, U+0110-0111, U+0128-0129, U+0168-0169, U+01A0-01A1, U+01AF-01B0, U+1EA0-1EF9, U+20AB;
+
+}
+
+/* latin-ext */
+
+@font-face {
+
+  font-family: 'Josefin Sans';
+
+  font-style: normal;
+
+  font-weight: 400;
+
+  src: url(https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMhhLzTs.woff2) format('woff2');
+
+  unicode-range: U+0100-024F, U+0259, U+1E00-1EFF, U+2020, U+20A0-20AB, U+20AD-20CF, U+2113, U+2C60-2C7F, U+A720-A7FF;
+
+}
+
+/* latin */
+
+@font-face {
+
+  font-family: 'Josefin Sans';
+
+  font-style: normal;
+
+  font-weight: 400;
+
+  src: url(https://fonts.gstatic.com/s/josefinsans/v25/Qw3PZQNVED7rKGKxtqIqX5E-AVSJrOCfjY46_DjQbMZhLw.woff2) format('woff2');
+
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02BB-02BC, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2122, U+2191, U+2193, U+2212, U+2215, U+FEFF, U+FFFD;
+ 
+}
+
+  
+
+
+
+ 
+
+/* portfolio */
+  footer{display:none ! important}
+
+    hr {display:none! important}
+
+    header {display:none ! important}
+
+    .mobMn {display:none ! important}
+
+    .cyclone {display:none ! important}
+
+   .termscond{display:none ! important}
+
+    .brdCmb {display:none ! important}
+
+    .mnMen {display:none ! important}
+
+#LinkList002 {display:none! important}
+
+#LinkList001 {display:none! important}
+ h1 {display:none! important}
+  .wvC {display:none ! important  }
+  
+
+
+
+/* portfolio */
+
+  
+
+  .PC { position: absolute; left:0; width:99.999% ;top:0 ; height:100% ! important  }
+
+  
+
+  .PCImg img { position: absolute ;border-radius:50% ! important ; width:140px ; height:140px ; top:-10px ! important;  left:30.5% ; border:6px solid #01ffff; padding:3px ; box-shadow:0px 2px 10px #000; display:flex; items-align:center ; justify-content:center ; text-align:center ; }
+.PCImg{margin-bottom:-12px! important}
+ 
+ .PCName {color:#000 ; margin-top:140px ; font-size:25px ; font-weight:bold; text-align: center; justify-content:center; display:flex; }
+
+ 
+
+.PCIntro {color:#737373 ; margin-top:2px ; font-size:16px ; text-align: center; justify-content:center; display:flex; }
+.PCIntro {margin-top:-3px ! important}
+
+  .PCS svg{fill:#000! important; stroke:#000! important; position: absolute; top:200px  ; left :33% ; }
+
+ .PCS svg:hover{fill: #01ffff! important;stroke: #01ffff! important }
+
+
+  .PCS2 svg{fill:#000! important; stroke:#000 ; position: absolute; top:200px  ; left :46% ; }
+
+.PCS2 svg:hover{fill: blue! important;stroke: blue! important }
+
+
+
+  .PCS3 svg{fill:#000! important; stroke:#000 ; position: absolute; top:200px  ; left :59% ; }
+
+  .PCS3 svg:hover{fill: green! important;stroke: green! important }
+
+
+  .PCCo {background: #01ffff ; padding:8px 30px ; border-radius:8px ; box-shadow:0px 2px 10px #01ffff; width:auto ;  position: absolute; top:350px ; left:30px ; font-size:20px ; color:#000;  }
+
+   .PCCo:hover{background:#01ffff; color:#000 ; box-shadow:0px 2px 10px #01ffff }
+
+  .PCCS1 svg:hover {background: #01ffff; box-shadow:0px 2px 10px #01ffff}
+
+  .wc-like-btn:hover {background: #01ffff; box-shadow:0px 2px 10px #01ffff}
+
+  
+
+  .PCCS1 svg{background: #01ffff; padding:5px ; border-radius:8px ; box-shadow:0px 2px 10px #01ffff; position: absolute; top:350px ;  fill:blue! important; stroke:blue !important; position: absolute; left :53% ; width:37px ; height:37px ;}
+
+  
+
+
+  
+
+  
+
+  
+
+ .PCEx1 {position: absolute; top:240px ; font-size:19px; font-weight:bold  ; left:16%; color:#000;  }
+
+  .PCEx2 {position: absolute; top:240px ; font-size:19px; font-weight:bold  ; left:46%; color:#000;  }
+
+  .PCEx3 {position: absolute; top:240px ; font-size:19px; font-weight:bold  ; left:76%; color:#000;  }
+
+   .PCExI1 {position: absolute; top:265px ; font-size:16px ; left:8%; color:#737373;  justify-content:center; text-align: center; width:20% ; }
+
+   .PCExI2 {position: absolute; top:265px ; font-size:16px ; left:38%; color:#737373;  justify-content:center; text-align: center; width:20% ; }
+
+   .PCExI3 {position: absolute; top:265px ; font-size:16px ; left:70%; color:#737373;  justify-content:center; text-align: center; width:20% ; }
+
+  
+
+
+
+
+
+
+/* portfolio */
+.PCFo { margin-top:800px ; box-shadow:0px 2px 10px #000; padding:10px; background: transparent; color:#000 ; display:flex; justify-content:center ; text-align:center ; font-size:16px ; 
+  }
+
+.PCOp {color:#000 ; top:370px ; position: absolute;  padding:10px ;font-family:'Josefin Sans', sans-serif;  }
+
+
+  .neutron:hover { background: black ! important; transition:1s ; color:#fff ! important}
+
+.PCwrS {margin-left:20px !important }
+
+
+    .neutron{display:flex; justify-content :center ; text-align:center ; background:#fff ! important;color:#000! important;  border-radius:10px ; margin-left:11px; margin-bottom:10px ; margin-top:10px ;  box-shadow:none ! important; }
+
+#PPP {box-shadow:0px 2px 10px #001226;background:#9c9c9c; border-radius:12px 12px 12px 12px  ; padding:5px ; margin-top:20px ;  padding-bottom:0px ! important; margin-bottom: 0px ! important ; width:320px  ; position:  relative ; left:10px;  box-shadow:0px 2px 10px whitesmoke }
+
+ /* widget like */
+.wc-like-btn{position:relative;padding:8px 8px;background:#01ffff;font-size:18px;border-radius:5px;color:#000;outline:none;border:none;display:flex;align-items:center; box-shadow :0px 2px 10px #01ffff ; justify-content:center;top:165px ; left :30%}
+.wc-like-btn::after{content:'';position:absolute;padding:20px 20px;background: transparent;bottom:-15px;transform:rotate(45deg)}
+.wc-like-btn svg{fill:none;stroke:blue;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5;width:20px;height:20px;margin-right:5px;z-index:2}
+.wc-like-btn svg.like{fill:blue;stroke:blue}
+#wc-liked{margin-top:5px;z-index:2}
+#wc-liked::before{content:attr(data-klik)}
+#wc-liked::after{content:attr(data-teks);margin-left:5px}
+.wrap-center{display:flex;justify-content:center}
+  
+  @media screen and (min-width:600px){ 
+    .PCImg img {
+  left:39.5% ! important ; margin-top:5px ;}
+ .PCS svg{ left :36% ! important ; }
+  .PCS2 svg{ left :49% ! important ; }
+  .PCS3 svg{ left :62% ! important ; }
+
+.PCEx1 {  left:20% ! important ;}
+  .PCEx2 { left:48.5% ! important;  }
+  .PCEx3 { left:80% ! important;  }
+   .PCExI1 { left:12% ! important; }
+   .PCExI2 { left:40% ! important; }
+   .PCExI3 { left:72% ! important; }
+    .neutron {
+  margin-left:100px ! important;}
+.PCCS1 svg{left:54% ! important }
+ .wc-like-btn{ left:15% ! important}
+#PPP {left:157px ! important ; width:720px  ! important ; }
+.PCCo {left :30% ! important}
+  .PCFo {margin-top:650px ! important}
+    }
+  
+  @media screen and (min-width: 320px) 
+  {
+    #PPP { width:320px ! important; 
+    }
+    .neutron {margin-left:9px ! important}
+   .PC {margin-top:75px ! important}
+ #PImg img {position: absolute; top:-25px ! important; left:0px ; height: 180px! important ;width:100% ; border-radius:0px ; box-shadow: 0 8px 200px -6px #01ffff ; border-bottom:1px solid #01ffff ; border-radius:10px }
+    }
+  
+@media screen and (min-width: 768px) {
+.neutron {
+  margin-left:150px ! important;
+}
+#PPP {left:20px !important ;width:920px ! important ; }
+.PCCo {left :30% ! important}
+
+.PCFo {margin-top:650px ! important}
+}
+
+@media screen and (min-width: 768px) {
+.PCImg img {
+  left:43% ! important ; margin-top:5px ;}
+ .PCS svg{ left :36% ! important ; }
+  .PCS2 svg{ left :49% ! important ; }
+  .PCS3 svg{ left :62% ! important ; }
+
+.PCEx1 {  left:20% ! important ;}
+  .PCEx2 { left:48.5% ! important;  }
+  .PCEx3 { left:80% ! important;  }
+   .PCExI1 { left:12% ! important; }
+   .PCExI2 { left:40% ! important; }
+   .PCExI3 { left:72% ! important; }
+  .PCCS1 svg{left:54% ! important}
+    
+ .wc-like-btn{ left:15% ! important}
+}
+  
+
+ @media screen and (min-width: 992px) {
+.PCImg img {
+  left:46.5% ! important ; margin-top:5px ;}
+ .PCS svg{ left :36% ! important ; }
+  .PCS2 svg{ left :49% ! important ; }
+  .PCS3 svg{ left :62% ! important ; }
+
+.PCEx1 {  left:20% ! important ;}
+  .PCEx2 { left:48.5% ! important;  }
+  .PCEx3 { left:80% ! important;  }
+   .PCExI1 { left:12% ! important; }
+   .PCExI2 { left:40% ! important; }
+   .PCExI3 { left:72% ! important; }
+.PCCS1 svg{left:51% ! important}
+ .wc-like-btn{ left:7% ! important}
+   
+  .neutron {
+  margin-left:400px ! important;
+}
+#PPP {width:1860px ! important ; }
+.PCCo {left :42% ! important}
+  }
+  
+
+  
+
+  .PCWr{ padding:-5px ! important ; color:#5c5c5c ; justify-content:justify ; text-align:justify ; font-size:18px ; display:flex ; margin-top:10px }
+
+  .tab1 {background: transparent! important; color:#000 ! important; justify-content:justify ! important; text-align:justify ! important ;  }
+   .tab2 {background: transparent! important; color:#000 ! important; justify-content:justify ! important; text-align:justify ! important ; }
+   .tab3 {background: transparent! important; color:#000 ! important; justify-content:justify ! important; text-align:justify ! important ; }
+
+.pc-tab  .widget  {  padding:0px ! important; margin:-18px }
+
+.pc-tab  .ACpI .widget  {  padding:0px ! important; margin:-40px }
+
+
+
+
+
+
+/* portfolio */
+ .pc-tab > input, .pc-tab section > div { display: none; } #tab1:checked ~ section .tab1, #tab2:checked ~ section .tab2, #tab3:checked ~ section .tab3 { display: block; } #tab1:checked ~ nav .tab1, #tab2:checked ~ nav .tab2, #tab3:checked ~ nav .tab3 { color: red; } } .pc-tab { width: 100%; max-width: 700px; margin: 0 auto; } .pc-tab ul {display: flex; list-style: none; margin: 0; padding: 0; } .pc-tab ul li label { float: left; padding:15px; border: 1px solid #1c1c1c; background: #eee; color: #444; } .pc-tab ul li label:hover { background: #ddd; } .pc-tab ul li label:active { background: #fff; } .pc-tab ul li:not(:last-child) label {  } .pc-tab section { clear: both; } .pc-tab section div { padding: 20px;  background: transparent; line-height: 1.5em; letter-spacing: 0.3px;} .pc-tab section div h2 { margin: 0; letter-spacing: 1px; color: #34495e; } #tab1:checked ~ nav .tab1 label, #tab2:checked ~ nav .tab2 label, #tab3:checked ~ nav .tab3 label { background: #fff; color: #111; position: relative; } #tab1:checked ~ nav .tab1 label:after, #tab2:checked ~ nav .tab2 label:after, #tab3:checked ~ nav .tab3 label:after { content: ''; display: block; position: absolute; height: 4px; width: 100%; background: #000; left: 0; bottom: -1px;}
+
+/* Changelog */ 
+.changeLog{position:fixed;bottom:0;left:0;right:0;margin:0;padding:40px 0;width:100%;height:100%;background-color:#fefefe;font-family:'Noto Sans', sans-serif;font-size:15px;z-index:22;-webkit-transition:all .1s ease;transition:all .1s ease;overflow-y:auto;opacity:0;visibility:hidden}.changeLog .logClose{display:flex;align-items:center;height:22px;position:absolute;top:20px;right:25px}.changeLog .logClose:before{content:'Close';font-size:11px;padding-right:8px;font-family:'Noto Sans', sans-serif}.changeLog .logContent{width:100%;max-width:820px;padding:0 20px;margin-left:auto;margin-right:auto;font-family:'Noto Sans', sans-serif}.changeLog .logContent h2{margin-top:10px;font-family:'Noto Sans', sans-serif}.changeLog .logContent ol,.changeLog .logContent ul{padding-left:30px}.logInput:checked ~ .changeLog{opacity:1;visibility:visible}.I{color:inherit;text-decoration:underline;font-family:match;line-height:20px}
+
+.drK .changeLog{background-color:#1e1e1e}.drK .logContent{background-color:#1e1e1e}
+
+#HTML18 {margin-bottom:20px}
+
+/* Ripple effect */ .clicker {width: 60px;height: 60px;margin-left: -30px;margin-top: -30px;background: #204ecf;border-radius: 100%;position: absolute;transform: scale(0);opacity: .3;-ms-filter: none;filter: none;z-index: 9999;pointer-events: none} .drk .clicker {background: #000}.clicker.is-active {opacity: 0;-ms-filter:
+'progid:DXImageTransform.Microsoft.Alpha(Opacity=0)';filter: alpha(opacity=0);
+transition: opacity 900ms ease,transform 900ms ease;transform: scale(1)} 
+/* Preloader before header */
+.pace{-webkit-pointer-events:none;pointer-events:none;-webkit-user-select:none;-moz-user-select:none;user-select:none}.pace-inactive{display:none}.pace .pace-progress{background:var(--linkB);position:fixed;z-index:2000;top:0;right:100%;width:100%;height:4px}
+
+/* preloader */
+.wc-pre-wrap{position:fixed;height:100%;width:100%;top:0;left:0;right:0;bottom:0;background:rgba(0,0,0,.5);z-index:9999999;-webkit-backdrop-filter:blur(5px);backdrop-filter:blur(5px);-webkit-animation: fade 3s forwards;-moz-animation: fade 3s forwards;-o-animation: fade 3s forwards;animation: fade 3s forwards;}
+.wc-pre-wrap .wc-pre-start{position:relative;top:50%;left:50%;padding:30px;display:flex;background:transparent;flex-direction:column;align-items:center;transform: translate(-50% , -50%) scale(0.97);transition:all 0.3s ease}
+.wc-pre-wrap .wc-pre-start svg{width:100px;height:100px;margin:auto;display:inline-block}
+@-webkit-keyframes fade{0%{opacity:1}50%{opacity:1}100%{opacity:0}}@-moz-keyframes fade{0%{opacity:1}50%{opacity:1}100%{opacity:0}}@-o-keyframes fade{0%{opacity:1}50%{opacity:1}100%{opacity:0}}@keyframes fade{0%{opacity:1}50%{opacity:1}100%{opacity:0}}
+
+.PDi img{ border-radius:30px ; }
+.PDi { border-radius:40px ; padding: 15px ; box-shadow:0px 2px 10px whitesmoke; background:#fff! important}
+  .PDiD {text-align:center ; display:flex; justify-content:center ;  color:#000; 
+   margin-top:15px ; font-size:17px ; 
+  }
+  .psImg {background: transparent! important; }
+
+@media screen and (min-width: 320px){
+  .psImg {background: transparent! important; width:120% ! important ; margin-left:-30px ! important }
+}
+@media screen and (min-width: 792px){
+.psImg {width:100% ! important ; margin-left: 10px! important}
+}
+@media screen and (min-width: 600px){
+.psImg {width:100% ! important ; margin-left: 10px! important}
+.wc-like-btn{left:19% ! important}
+#PPP{ left:28.7% ! important}
+} 
+@media screen and (min-width: 320px){
+.ACpI{margin-left:25px ;  width:250px ; height:250px ;margin-top:30px; margin-bottom:30px  ; border-radius:20px ; padding:0px ! important; background: linear-gradient(
+45deg,
+transparent,
+#e0e0e0,
+transparent
+)! important;}
+  .ACpI img{border-radius:20px ; transform: rotate(15deg);}
+  .ACpI img:hover { transform: rotate(0deg); transition:.5s }}
+
+@media only screen and (min-width: 768px) { .ACpI {  margin-left:320px ! important}
+
+#PPP{left:20px ! important}}
+
+@media only screen and (min-width: 600px) { .ACpI{margin-left:180px ! important  }}.l{background: transparent! important}@media only screen and (min-width: 320px){ #YYcenter {margin-left:50px ! important}}
+@media only screen and (min-width: 792px){ #YYcenter {margin-left:350px ! important}}
+@media only screen and (min-width: 600px){ #YYcenter {margin-left:200px ! important}
+#PPP {margin-left:1px ! important}}.changeLog{background-color:#001226! important}
+.logContent{background:#001226! important}
+.logClose svg{color:#000 ! important; stroke:#000 ! important ; box-shadow:0px2px 10px #000 ! important }
+.logClose {color:#000 ! important; }
+.logContent h2{color:#ccc ! important} 
+
+body {
+            background: linear-gradient(350deg, #f4f9ff, #edf4ffc9), url('https://upan.selften.com/assets/template/images/body.png');
+        } 
+.slidy{
+  position: relative;
+  transform: translateY(150px);
+  opacity: 0;
+  transition: .5s all ease;
+}
+
+.slidy.active{
+  transform: translateY(0);
+  opacity: 1;
+}.ExpE {position:relative; box-shadow:0px 2px 10px #ccc; border-radius:20px ; background: transparent ! important; border:1px solid whitesmoke; color: #8c8c8c! important; padding:10px ;height:200px ! important; }
+.ExpE h4{color:#01ffff! important}
+  .ExpE:hover{ background: transparent! important;border:1px solid #ccc; color:#000; transition:.5s ; box-shadow:0px 2px 10px #ccc ! important }
+  .ExpE:hover h4{ color:blue ; transition:1s ;}
+  .ExpP {margin-left:10px }
+  .ExpE svg{width:17px ! important; height:17px ! important ; margin-bottom:-2px ! important;margin-right:5px ! important ; } 
+.ExpE:hover svg{fill:#01ffff! important}
+  
+ .ExpH {display:flex; justify-content:center; text-align:center ; margin-top: 0px ! important ; color:#01ffff !important }
+  @media only screen and (min-width: 320px) {
+  .ExpT1 {position: absolute; top:60px ; left:20px ; font-size:20px ; }
+ 
+  .ExpT2 {position: absolute; top:60px ; left:170px ; font-size:20px ; }
+  
+  .ExpT3 {position: absolute; top:130px ; left:20px ; font-size:20px ; }
+  
+  .ExpT4 {position: absolute; top:130px ; left:170px ; font-size:20px ; }
+    
+    .ExpC1 {position: absolute; top:85px ; left:40px ; font-size:16px ; }
+  
+  .ExpC2 {position: absolute; top:85px ; left:190px ; font-size:16px ; }
+  
+  .ExpC3 {position: absolute; top:155px ; left:40px ; font-size:16px ; }
+  
+  .ExpC4 {position: absolute; top:155px ; left:190px ; font-size:16px ; }
+  
+    
+  }
+ 
+  @media only screen and (min-width: 792px) {
+  .ExpT1 {position: absolute; top:70px ; left:70px ! important; font-size:20px ; }
+  
+  .ExpT2 {position: absolute; top:70px ; left:230px ! important; font-size:20px ; }
+  
+  .ExpT3 {position: absolute; top:140px ; left:70px ! important; font-size:20px ; }
+  
+  .ExpT4 {position: absolute; top:140px ; left:230px ! important; font-size:20px ; }
+    .ExpC1 {position: absolute; top:95px ; left:80px ; font-size:16px ; }
+  
+  .ExpC2 {position: absolute; top:95px ; left:240px ; font-size:16px ; }
+  
+  .ExpC3 {position: absolute; top:165px ; left:80px ; font-size:16px ; }
+  
+  .ExpC4 {position: absolute; top:165px ; left:240px ; font-size:16px ; }
+  }
+  @media only screen and (min-width: 992px) {
+
+  .ExpT1 {position: absolute; top:70px ; left:190px ! important; font-size:20px ; }
+
+  
+
+  .ExpT2 {position: absolute; top:70px ; left:360px ! important; font-size:20px ; }
+
+  
+
+  .ExpT3 {position: absolute; top:140px ; left:190px ! important; font-size:20px ; }
+
+  
+
+  .ExpT4 {position: absolute; top:140px ; left:360px ! important; font-size:20px ; }
+    
+.ExpC1 {position: absolute; top:85px ; left:210px ; font-size:16px ; }
+  
+  .ExpC2 {position: absolute; top:85px ; left:380px ; font-size:16px ; }
+  
+  .ExpC3 {position: absolute; top:155px ; left:210px ; font-size:16px ; }
+  
+  .ExpC4 {position: absolute; top:155px ; left:380px ; font-size:16px ; }
+    
+  }.titleTT {background: transparent ! important ;   margin-top:20px ; margin-bottom:0px ! important }
+.titleTT h6{color:#000 ! important ; display:flex ;  justify-content:center ; text-align:center ; }
+.titleTT h3{color:#01ffff ! important ; display:flex ;  justify-content:center ; text-align:center ; font-size:28px ; margin-top:10px }
+h1 {font-family:'Josefin Sans', sans-serif ! important;}h2{font-family:'Josefin Sans', sans-serif ! important;}h3{font-family:'Josefin Sans', sans-serif ! important;}h4 {font-family:'Josefin Sans', sans-serif ! important;}h5 {font-family:'Josefin Sans', sans-serif ! important;}h6 {font-family:'Josefin Sans', sans-serif ! important;} h7 {font-family:'Josefin Sans', sans-serif ! important;}.desC{font-family:var(--font-bodyAlt);text-align:center;font-size:13px;padding-bottom:0px;line-height:1.6em;} .desC:after{content:&#39;&#39;;width:0px;display:block;position:relative;bottom:-6px;border-bottom:1.5px solid #989b9f;margin:3px auto;animation:animatebord 3s infinite;-webkit-animation:animatebord 3s infinite}
+@-webkit-keyframes animatebord{0%{width:20px}50%{width:100px}100%{width:20px}}@keyframes animatebord{0%{width:20px}50%{width:100px}100%{width:20px}}
+.widget-content{background: transparent! important}.desC{font-family:var(--font-bodyAlt);text-align:center;font-size:13px;padding-bottom:0px;line-height:1.6em;} .desC:after{content:&#39;&#39;;width:0px;display:block;position:relative;bottom:-6px;border-bottom:1.5px solid #989b9f;margin:3px auto;animation:animatebord 3s infinite;-webkit-animation:animatebord 3s infinite}
+@-webkit-keyframes animatebord{0%{width:20px}50%{width:100px}100%{width:20px}}@keyframes animatebord{0%{width:20px}50%{width:100px}100%{width:20px}}
+
+.WelcomeSec {background: transparent! important}  
+.WelcomeSec h5{background: transparent! important; color:#000 ! important}  
+.txt-rotate {color:#01ffff ! important}.WelcomeSec h5{font-size:26px ! important; margin-bottom:20px ! important; margin-top:20px ! important }
+}.SRVH h2{ background: #01ffff! important ; border-radius:20px ; padding:20px ; }.SRVH{ background: #01ffff ! important ; border-radius:20px ; padding:20px ; display:flex ; text-align:center ; justify-content:center ; box-shadow:0px 2px 10px #01ffff; position:relative ; items-align: center;   
+ top:-50px ! important; width:114.5% ! important ; margin-left:-20px ! important; padding-top:25px ; padding-bottom:25px ; }  
+.tot {margin-bottom:60px ! important}
+
+@media only screen and (min-width: 768px) { .SRVH { width:110.5% ! important}}.SRVH{ font-size:18px ! important ;background: #9c9c9c ! important ; border-radius:20px ; padding:20px ; display:flex ; text-align:center ; justify-content:center ; box-shadow:0px 2px 10px #000; position:relative ; items-align: center;   
+ top:-50px ! important; width:114.5% ! important ; margin-left:-20px ! important; padding-top:25px ; padding-bottom:25px ; }  
+.tot {margin-bottom:60px ! important}
+
+@media only screen and (min-width: 768px) { .SRVH { width:110.5% ! important}}.SRVH{ font-size:18px ! important ;background: #011575 ! important ;  border-radius:20px ; padding:20px ; display:flex ; text-align:center ; justify-content:center ; box-shadow:0px 2px 10px #011575; border:2px solid #011575 ; position:relative ; items-align: center;   
+ top:-50px ! important; width:116% ! important ; margin-left:-22px ! important; padding-top:25px ; padding-bottom:25px ; }  
+.tot {margin-bottom:60px ! important; height:130px ! important; border:1px solid #01ffff ! important; box-shadow:0px 2px 10px #01ffff ! important   } 
+.tot h4 {color:#000 ! important ; background:#01ffff ! important ; border:2px solid #01ffff ! important; box-shadow:0px 2px 10px #01ffff ! important ;}
+
+@media only screen and (min-width: 768px) { .SRVH { width:111.5% ! important}}/* Service Section */
+.SRVH{ font-size:18px ! important ;background: #011575 ! important ;  border-radius:20px ; padding:20px ; display:flex ; text-align:center ; justify-content:center ; box-shadow:0px 2px 10px #011575; border:2px solid #011575 ; position:relative ; items-align: center;   
+ top:-50px ! important; width:116% ! important ; margin-left:-22px ! important; padding-top:25px ; padding-bottom:25px ; }  
+.tot {margin-bottom:60px ! important; height:130px ! important; border:1px solid #01ffff ! important; box-shadow:0px 2px 10px #01ffff ! important  ; background: #fff ! important }   
+.tot h4 {color:#000! important}
+.tot:hover h4{ box-shadow:0px 2px 10px #01ffff ! important; }
+
+@media only screen and (min-width: 768px) { .SRVH { width:111.5% ! important}}.btn-talk {display:flex; justify-content:center ! important; text-align:center ! important; background:#01ffff ! important; color:#000 ! important ; padding:2px ; border-radius:15px ; font-size:20px ; margin-top:30px  }.btn-talk a{color:#01ffff ! important}
+.btn-talk {box-shadow:0px 2px 10px #01ffff }
+.btn-talk:hover {background: #01ffff ! important; box-shadow:0px 2px 10px #01ffff} 
+ 
+.CNT { background:#fff ! important ; border:1px solid #fff ! important; box-shadow:0px 2px 10px #ccc }
+.CNT h4 {color : #000 ! important ; display:flex ; justify-content:center ; text-align: center; items-align:center ; position:relative ; margin-top:50px ; font-size:23px ! important }
+
+.CNTt{ color: #ccc ; display:flex ; justify-content:center; text-align:center ; items-align:center ; margin-top:10px ; font-size:16px  } 
+ .CNTt svg { stroke : #000 ! important; fill:#000 ! important ; width:35px ! important; height:35px ! important ; margin-bottom:-80px ! important ; display:flex ; margin-left:6px ; }
+.CNT h4 {color : #000 ! important ; display:flex ; justify-content:center ; text-align: center; items-align:center ; position:relative ; margin-top:50px ; font-size:23px ! important }
+
+
+.b_t svg {width:25px ! important; height 20px! important ; stroke:#000 ! important ; fill:#000 ! important ; stroke-width:3px! important }/* Toast Notification */
+  .tNtf span{position:fixed;left:24px;bottom:-70px;display:inline-flex;align-items:center;text-align:center;justify-content:center;margin-bottom:20px;z-index:99981;background:#323232;color:rgba(255,255,255,.8);font-size:14px ! important;font-family:inherit;border-radius:15px;padding:18px 24px; box-shadow:0 5px 35px rgba(149,157,165,.3);opacity:0;transition:all .1s ease;animation:slideinwards 2s ease forwards;-webkit-animation:slideinwards 2s ease forwards}
+  @media screen and (max-width:500px){.tNtf span{margin-bottom:20px;left:20px;right:20px;font-size:13px}}
+  @keyframes slideinwards{0%{opacity:0}20%{opacity:1;bottom:0}50%{opacity:1;bottom:0}80%{opacity:1;bottom:0}100%{opacity:0;bottom:-70px;visibility:hidden}}
+  @-webkit-keyframes slideinwards{0%{opacity:0}20%{opacity:1;bottom:0}50%{opacity:1;bottom:0}80%{opacity:1;bottom:0}100%{opacity:0;bottom:-70px;visibility:hidden}}
+  .drK .tNtf span{box-shadow:0 10px 40px rgba(0,0,0,.2)}@media only screen and (min-width: 992px) { .PC {display:none ! important}
+#PImg {display:none! important}}@media only screen and (min-width: 992px) { .PC {display:none ! important}
+#PImg {display:none! important}
+.Error {  box-shadow:0px 2px 10px #ccc ; background:#5c5c5c ! important; padding:10px ; color :#000 ! important}} 
+@media only screen and (min-width: 320px) { .Error {display:none ! important}}
+@media only screen and (min-width: 768px) { .Error {display:none ! important}}@media only screen and (min-width: 992px) { .PC {display:none ! important}
+#PImg {display:none! important}
+}
+
+
+.themeCNG {position: fixed! important  ; z-index:5; top:8px ; left:0px ! important; box-shadow: 0px 2px 10px #ccc ; border-radius:0px 170px 170px 0px  ;background:white; height:33px !important; padding:6px 7px 5px 10px; padding-left:15px}
+
+  .drK .themeCNG {box-shadow:0px 2px 10px #000 ;background:#1c1c1c ;}
+
+  .themeCNG svg{stroke:black ! important; stroke-width:1.4px ! important;}
+.drK .themeCNG svg{ stroke-width:1px ! important;  }
+
+.hellow {position: absolute! important  ; z-index:3; top:8px ; right:5px ! important; box-shadow: 0px 2px 10px #ccc ; border-radius:40px ;background-color: #fff; height:33px !important; padding: 7px 10px; border:1px solid whitesmoke  }
+
+  .drK .hellow {box-shadow:0px 2px 10px #000 ;background:#1c1c1c ; color:#fff;border:1px solid #1c1c1c }
+.hellow svg{stroke:black ! important; stroke-width:1.4px ! important; margin:5px ; margin-top:0.5px; margin-left:2px ; margin-right:2px ; }
+.drK .hellow svg{stroke:white ! important; stroke-width:1.4px ! important; fill:white ! important ;  }
+  
+
+/* Dark Mode CSS */
+.drK body {background:#001226 ; background-image: url(https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjidwXsW7GYCLFaCWwrQWG9EAtMzgzkXXZu-XPoJ_S4LA1iCa-1GZlE-fw-zn8i3eGoy2xOSMCgxGJzwPtHik0ilXGidxgRiiF3LlYlpbYjX0nkLDdcfnX8D3FipwAc4id6VP7LxD6IR9ntHQlA6OAzxdNBF1skrdO_pXGh-J0eHXEirWG5TiA7raKOTw/s1600/shape.png);
+}
+
+.drK #PImg img{ border-bottom:2px solid blue ! important; box-shadow: 0 8px 200px -6px blue ! important} .drK .wc-like-btn{background:#0463cf ! important; color:#fff;box-shadow :0px 2px 10px #0463cf}.drK.wc-like-btn svg{fill:none;stroke:#fff;stroke-linecap:round;stroke-linejoin:round;stroke-width:1.5;width:20px;height:20px;margin-right:5px;z-index:2} .drK
+.wc-like-btn svg.like{fill:#fff;stroke:#fff}
+.drK .PCCo {background: #0463cf ;box-shadow :0px 2px 10px #0463cf ; color:#fff} .drK .PCCS1 svg{background: #0463cf; box-shadow :0px 2px 10px #0463cf ; stroke:#fff ! important; fill:#fff! important} .drK .PCEx1 {color:#fff} .drK .PCEx2 {color:#fff} .drK .PCEx3 {color:#fff}
+.drK .PCS svg {stroke:#fff ! important; fill:#fff ! important} .drK .PCS2 svg {stroke:#fff ! important; fill:#fff ! important}
+.drK .PCS3 svg {stroke:#fff ! important; fill:#fff ! important} .drK .PCName {color:white ; } .drK .PCImg img {border:6px solid #0463cf;} .drK #PPP {box-shadow:0px 2px 10px #001226;background:#333333} .drK .neutron {background:#1c1c1c ! important ;color:white ! important} .drK .PDi{box-shadow:0px 2px 10px #1c1c1c ; background:#1c1c1c! important} .drK .PDiD {color:#fff! important} .drK .ACpI{ box-shadow:0px 2px 10px #1c1c1c ; background: linear-gradient(45deg,transparent,#5c5c5c,transparent)! important;} .drK .PCWr{color:#a8a8a8 ; } .drK .WelcomeSec h5{color:white ! important}  .drK 
+.titleTT h6{color:white ! important ; } .drK .btn-talk{background:blue ! important; color:white ! important;box-shadow:0px 2px 10px blue } .drK .ExpE { box-shadow:0px 2px 10px #1c1c1c ; background: transparent ! important; border:1px solid #1c1c1c; color: #8c8c8c! important;} .drK .ExpE h4{color:blue! important} .drK .ExpE:hover{ background: transparent! important;border:1px solid #000; color:white; transition:.5s ; box-shadow:0px 2px 10px #000 ! important }
+.drK .tot{ box-shadow:0px 2px 10px #011575 ! important  ; background: #010b3b ! important ; border:1px solid blue ! important } .drK .tot h4 {color:white! important ; background:blue ! important ; box-shadow:0px 2px 10px blue ! important; border:2px solid blue ! important ;} .drK
+.tot:hover h4{ box-shadow:0px 2px 10px #000 ! important; } .drK .SRVH h2{ background: #fff ! important } .drK .CNT { background:#1c1c1c ! important ; border:1px solid black ! important; box-shadow:0px 2px 10px #1c1c1c } .drK .CNT h4 {color : white ! important} .drK .CNTt{ color: #ccc ;} .drK .CNTt svg { stroke : white ! important;  }.error1 { box-shadow:0px 2px 10px #000; background: transparent! important; border-radius:20px ; padding:15px ; border:2px solid #5c5c5c ; justify-content:center ; display:flex ; text-align: center;  color:#000 ; position:relative ; margin-top:225px; width:600px ; margin-left:325px ; font-size:30px ; font-weight:bold; }
+.drK .error1 { color :#fff! important}
+  @media only screen and (max-width: 992px) { .error1 {display:none}}/* breaker */
+trb{display:block;margin:2em 0; font-style:normal} trb:before{content:'\2027 \2027 \2027'; display:block;text-align:center; font-size:42px;letter-spacing:0.6em;text-indent:0.6em;clear:both} trb.zik::before{content:'\007E'; display:block; letter-spacing:.6em;text-indent:.6em;text-align:center; opacity:.8;clear:both}  trb.line::before{content:'';border-bottom:2px solid #6c6c6c}.drK trb .zik{ color: #fff}.drK trb { color: #fff}#Blog1 h3 { display:flex ; text-align:center ; justify-content:center ; background:white ; border:whitesmoke ; box-shadow:0px 2px 10px whitesmoke; border-radius:15px ; padding:10px ;margin:5px ; margin-top:30px ;font-size:20px }
+#Blog1 {padding:15px ; justify-content:left; text-align:left;}
+#Blog1 img { display:flex; justify-content:center ; text-align:center ; items-align:center ; background:white ; border:whitesmoke ; box-shadow:0px 2px 10px whitesmoke; border-radius:20px ; padding:10px ;margin:20px 0px -20px 5px  ;  width:97.5% ;  }
+.drK #Blog1 h3 { color: white ; background:#4c4c4c ; box-shadow:0px 2px 10px #4c4c4c ; }
+.drK #Blog1 {color: white ; }
+.drK #Blog1 img { background:#4c4c4c ; box-shadow:0px 2px 10px #4c4c4c ; }
+.highlight { background:#0dd3ff; color:white ; border-radius:4px ; padding:5px; width:auto; position:static;}.reaction { background:white ; border:whitesmoke ; box-shadow:0px 2px 10px whitesmoke; border-radius:20px; padding:10px ; }
+.drK .reaction{  border:#5c5c5c ; box-shadow:0px 2px 10px #5c5c5c ; background-color:#9c9c9c ! important }.wc-like-btn {margin-top:-2px! important }
+.ContactForm {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+    max-width:300px ! important;
+      width:100% ! important;
+    text-align:left ;
+      justify-content:left;
+margin:-20px -20px -20px -7px ! important;  } input{ width:300px ! important} .drK input{ background:#5c5c5c ; }.drK .n {color:#fff ! important}.cArea {margin:-10px! important;display: flex;flex-direction: column;width: 100%;}.cInpt {
+  padding: 20px;
+  border-radius:15px;
+  border: none;
+  border-bottom: 2px solid #ccc;
+  font-size: 14px;
+  margin-bottom: 0px! important;
+
+}
+  
+.cInpt:focus {
+  outline: none;
+  border-bottom: 2px solid #007bff;
+}
+
+.cName {
+  width: 100%;
+}
+
+.cMail {
+  width: 100%;
+}
+.cMob {
+  width: 100%;
+}
+.cMsg {
+  width: 100%;
+  height: 100px;
+}
+
+.n {
+  font-size: 14px ! important;
+  font-weight: bold;
+  margin-bottom: 5px;
+margin-top:-25px ; 
+}
+
+.req {
+  color: #ff0000;
+}
+
+.h {
+  font-size: 12px;
+  color: #888;
+  margin-top: 5px;
+}
+
+.button {
+  background-color: #007bff;
+  color: #fff;
+  padding: 15px 20px;
+  border: none;
+  border-radius: 5px;
+  font-size: 18px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+width:300px ! important 
+}
+
+.button:hover {
+  background-color: #0062cc;
+}
+
+#ContactForm1 h3 { display:none ! important}
+  
+/* Widget ContactForm */  .cArea:not(:last-child){margin-bottom:25px} .cArea label{display:block;position:relative} .cArea label .n{display:block;position:absolute;left:0;right:0;top:0; color:rgba(8,16,43,.4);line-height:1.6em;padding:2px ;border-radius:4px 4px 0 0;} .cArea label .n.req::after{content:'*';font-size:85%} .cArea textarea{height:100px} .cArea textarea:focus, .cArea textarea[data-text=fl]{height:200px} .cArea input:focus ~ .n, .cArea textarea:focus ~ .n, .cArea input[data-text=fl] ~ .n, .cArea textarea[data-text=fl] ~ .n{padding-top:0px;color:rgba(8,16,43,.7);font-size:60%;background: transparent; } .cArea .h{display:block;font-size:90%;padding:5px 90px 0;opacity:.7;line-height:normal} .nArea .contact-form-error-message-with-border{color:#d32f2f} .nArea .contact-form-success-message-with-border{color:#2e7b32} .tNtf img.contact-form-cross{display:none} .PC .widget h3 { display:none ! important} #PImg h3 { display:none ! important}
+
+  
