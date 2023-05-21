@@ -497,7 +497,7 @@ h1 {font-family:'Josefin Sans', sans-serif ! important;}h2{font-family:'Josefin 
 }
 
 
-.themeCNG {position: fixed! important  ; z-index:5; top:8px; right:0px ! important; box-shadow: 0px 2px 10px #ccc ; border-radius:170px 0px 0px 170px  ;background:white; height:33px !important; padding:6px 7px 5px 10px; padding-left:15px}
+.themeCNG {position: fixed! important  ; z-index:5; top:8px; right:0px ! important; box-shadow: 0px 2px 10px #ccc ; border-radius:170px 0px 0px 170px  ;background:white; height:33px !important; padding:6px 7px 5px 10px; padding-right:15px}
 
   .drK .themeCNG {box-shadow:0px 2px 10px #000 ;background:#1c1c1c ;}
 
