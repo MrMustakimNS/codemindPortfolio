@@ -31,7 +31,7 @@
             "top" === l.position ? (i = o, s = n) : (i = n, s = o);
             for (let e = 0; e < i.length; e++) {
                 if (t.querySelector(i[e])) {
-                    r(t.querySelector(i[e]), a, "top" === l.position ? "insertAfter" : "insertBefore", l);
+                    r(t.querySelector(i[e]), a, "top" === l.position ? "insertBefore" : "insertAfter", l);
                     break
                 }
                 if (e === i.length - 1)
@@ -69,16 +69,15 @@
                                     let i = t(e);
                                     i && r(i, i.getAttribute("href"), "insertBefore", l)
                                 }
-                            });
-                            break
-                        }
-                        if (i === n.length - 1) {
-                            let t = [];
-                            e.querySelectorAll("a[href]").forEach(e => {
-                                let i = e.getAttribute("href").split("?")[0].split("#")[0];
-                                0 === i.indexOf(location.protocol + "//" + location.host) && /.*\/\d{4}\/\d{2}\/.*\.html/.test(i) && t.indexOf(i) < 0 && (r(e, i, "insertBefore", l), t.push(i))
-                            })
-                        }
+                        });
+                        break
+                    }
+                    if (i === n.length - 1) {
+                        let t = [];
+                        e.querySelectorAll("a[href]").forEach(e => {
+                            let i = e.getAttribute("href").split("?")[0].split("#")[0];
+                            0 === i.indexOf(location.protocol + "//" + location.host) && /.*\/\d{4}\/\d{2}\/.*\.html/.test(i) && t.indexOf(i) < 0 && (r(e, i, "insertBefore", l), t.push(i))
+                        })
                     }
                 }
             }
@@ -96,5 +95,6 @@
                     i(t, starRatingSystemSettings.indexPage)
                 }, 1e3))
             })
-        } else BloggerRatingGenerator = !0
-    }();
+        }
+    } else BloggerRatingGenerator = !0
+}();
